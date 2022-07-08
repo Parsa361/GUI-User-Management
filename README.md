@@ -13,7 +13,7 @@ This project is connected with the MySQL database which we were working on it at
 * show tables of database
 
 # Installing
-first you have to download and install required libraries in requirements.txt, like this below code
+first you have to download and install required libraries in requirements.txt, here is the code
 
 pip install -r requirements.txt
 
