@@ -1,4 +1,4 @@
-# GUI-User-Management
+# GUI-User Management
 This user management project is created by using MySQL database and Tkinter library ...
 
 
