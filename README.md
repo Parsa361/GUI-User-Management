@@ -7,10 +7,10 @@ This user management project is created by using MySQL database and Tkinter libr
 # About Project
 
 This project is connected with the MySQL database which we were working on it at university, you can do the folowing operations with it
-* add user
-* update user informations
-* delete user
-* show tables of database
+* Add user
+* Update user informations
+* Delete user
+* Show tables of database
 
 # Installing
 first you have to download and install required libraries in requirements.txt, here is the code
